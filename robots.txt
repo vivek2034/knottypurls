@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Replace with your live hosted domain before deploying
-Sitemap: https://knottypurls.in/sitemap.xml
+Sitemap: https://knottypurls.vercel.app/sitemap.xml
