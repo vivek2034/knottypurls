@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Replace https://knottypurls.in/ with your live hosted URL -->
   <url>
-    <loc>https://knottypurls.in/</loc>
+    <loc>https://knottypurls.vercel.app/</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
